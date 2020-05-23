@@ -1,9 +1,14 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 dist
-room_keys.json
 .vscode
+<<<<<<< HEAD
 .tmp
 tmp
 livego
 vendor
+=======
+tmp
+vendor
+livego
+>>>>>>> up/master
