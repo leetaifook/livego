@@ -4,4 +4,6 @@ dist
 room_keys.json
 .vscode
 .tmp
+tmp
+livego
 vendor
